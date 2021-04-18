@@ -5,3 +5,4 @@ if (age > 5) {
 } else {
   console.log("Noh its smaller than 5");
 }
+// ******************
